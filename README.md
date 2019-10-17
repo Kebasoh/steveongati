@@ -5,9 +5,9 @@
 ## Project Description
 - My portfolio is a website that explains more about me and also contains my previous project that i had done befofe.
 - I used HTML and CSS to come up with my portfolio.
-## Project Setup Instruction
-
-## Link to live site on GitHub pages
+##  Setup Instruction
+- 
+##  Live Link
 - Click to get my GitHub link:
 -
 ## License
