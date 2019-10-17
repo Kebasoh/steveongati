@@ -85,4 +85,11 @@ ul {
   font-size: 30px;
   
 }
+#contacts h3{
+  text-align: center;
+      font-size: 30px;
+      position: relative;
+      margin-top: 50px;
+      color:black;
+}
   
