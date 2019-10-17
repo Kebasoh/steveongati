@@ -76,5 +76,7 @@ ul {
       color:black;
       border-radius:100%;
   }
-
+#project ol li{
+  font-size: 30px;
+}
   
