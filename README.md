@@ -5,4 +5,4 @@
 ## Project Description
 - My portfolio is a website that explains more about me and also contains my previous project that i had done befofe.
 - I used HTML and CSS to come up with my portfolio.
-## Licence
+## License
