@@ -6,4 +6,5 @@
 - My portfolio is a website that explains more about me and also contains my previous project that i had done befofe.
 - I used HTML and CSS to come up with my portfolio.
 ## License
-- 
+- My project does not have a license it's free to use with anyone.
+- copyright(2019)
