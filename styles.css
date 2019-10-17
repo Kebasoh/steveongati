@@ -43,14 +43,14 @@ ul {
       position:relative;
       margin-top: 50px;
       color:black;
-      transition: 3s;
+      
   }
 
  #home img{
        border-radius: 50%;
        display: block;
        margin: 0 auto;
-       transition: 3s;
+       
       
   }
 
