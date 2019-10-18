@@ -161,3 +161,18 @@ input {
      font-size: 30px;
      margin-top: 40px;
 }
+body {
+     background-color: lightblue;
+   }
+   
+   @media screen and (min-width: 400px) {
+     body {
+       background-color: lightgreen;
+     }
+   }
+   
+   @media screen and (min-width: 800px) {
+     body {
+       background-color: lavender;
+     }
+   }
