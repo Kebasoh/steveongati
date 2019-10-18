@@ -17,9 +17,7 @@ ul {
      justify-content: center;
      border-radius: 100px;
      
-    
-    
-    
+      
   }
   
   li a {
@@ -29,12 +27,13 @@ ul {
      text-decoration: none;
      font-size: 30px;
      border-radius: 60px;
-     transition: 2s;
+     transition: 3s;
   }
   
   li a:hover {
      background-color:black;
      color:white;
+     
   }
 
   h1{
@@ -43,6 +42,7 @@ ul {
       position:relative;
       margin-top: 50px;
       color:black;
+      transition: 3s;
       
   }
 
@@ -68,7 +68,7 @@ ul {
   }
 
   #project img{
-        border-radius: 100%;
+        border-radius: 10%;
         display: block;
         margin: 0 auto;
         
