@@ -2,7 +2,7 @@
 
 .homepage{
      background-attachment: fixed;
-     height:50 vh;
+     height:100 vh;
      background-position: center center;
      background-repeat: no-repeat;
      background-size: cover;
@@ -57,7 +57,7 @@ ul {
   }
 
   .about{
-       height: 30vh;
+       height: 100vh;
        font-size: 40px;
        text-align: center;
        background-position: center center;
@@ -95,7 +95,7 @@ ul {
     background-attachment: fixed;
     background-position: center center;
     background-repeat: no-repeat;
-    height:70vh ;
+    height:100vh ;
     background-size: cover;
     background-image: url("https://bit.ly/2M9iPjP")
   }
@@ -115,7 +115,7 @@ ul {
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
-  height:40vh ;
+  height:100vh ;
   background-size: cover;
   background-image: url("https://bit.ly/2oU5rHl")
 }
