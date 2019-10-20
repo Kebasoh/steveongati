@@ -46,6 +46,7 @@ ul {
       color:black;
       transition: 3s;
       
+  
   }
 
  #home img{
@@ -78,9 +79,9 @@ ul {
   }
   #project h2{
        text-align: center;
-       font-size: 30px;
+       font-size: 40px;
        position: relative;
-       margin-top: 50px;
+       margin-top: 10%;
        color:black;
   }
   
@@ -124,7 +125,7 @@ ul {
       text-align: center;
       font-size: 40px;
       position: relative;
-      margin-top: 50px;
+      margin-top: 10%;
       color:black;
 }
 
