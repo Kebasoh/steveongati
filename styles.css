@@ -29,12 +29,14 @@ ul {
      text-decoration: none;
      font-size: 30px;
      border-radius: 60px;
-     transition: 3s;
+     transition: 0.3s;
+     text-transform: uppercase;
   }
   
   li a:hover {
-     background-color:black;
-     color:white;
+     background-color:white;
+     color:black;
+     box-shadow: 10px 10px 15px orange;
      
   }
 
@@ -150,7 +152,8 @@ input {
 .btn:hover {
      background:black;
      color:white;
-     transition: 3s;  
+     transition: 0.3s; 
+     box-shadow: 10px 10px 15px grey; 
 }
 
 .submit {
