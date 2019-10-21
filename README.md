@@ -3,7 +3,7 @@
 ## Author's Name
  - KEBASO STEVE ONGATI
  ## Project screanshot
- - /home/moringa/Pictures/Screenshot from 2019-10-21 11-05-34.png
+ - 
 ## Project Description
 - My portfolio is a website that explains more about me and also contains my previous project that i had done befofe.
 - I used HTML and CSS to come up with my portfolio.
