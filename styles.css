@@ -110,6 +110,9 @@ ul {
        text-align: center;
   
   }
+  span p{
+       font-weight: bolder;
+  }
 
 #project ol li{
       font-size: 30px;
