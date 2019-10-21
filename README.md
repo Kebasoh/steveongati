@@ -2,7 +2,7 @@
 - This is a website that basically explains about myself in the web development industry. 
 ## Author's Name
  - KEBASO STEVE ONGATI
- ## Project screanshot
+ ## Project screenshot
  - 
 ## Project Description
 - My portfolio is a website that explains more about me and also contains my previous project that i had done befofe.
