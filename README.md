@@ -10,7 +10,7 @@
 - I used HTML and CSS to come up with my portfolio.
 - You need to have internet in order to run the website and make it.
 - You need to have a GitHub account to deploy and have a live link.
-## Proect Screenshot
+## Project Screenshot
   <img src="project.jpg" alt="pictures">;
 
 ##  Live Link
