@@ -8,10 +8,11 @@
 ## Project Description
 - My portfolio is a website that explains more about me and also contains my previous project that i had done befofe.
 - I used HTML and CSS to come up with my portfolio.
-## Proect Screenshot
-  <img src="project.jpg" alt="pictures">;
 - You need to have internet in order to run the website and make it.
 - You need to have a GitHub account to deploy and have a live link.
+## Proect Screenshot
+  <img src="project.jpg" alt="pictures">;
+
 ##  Live Link
 - Click to get my GitHub link:
 -  https://kebasoh.github.io/steveongati/
